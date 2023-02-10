@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DenisGithuku](https://github.com/DenisGithuku)
 
-- 💬 Ask me about **Android, Javascript**
+- 💬 Ask me about **Android,Kotlin**
 
 - 📫 How to reach me **githukudenis@gmail.com**
 

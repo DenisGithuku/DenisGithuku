@@ -40,11 +40,6 @@
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 <img
   src="https://github.com/DenisGithuku/DenisGithuku/blob/master/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/DenisGithuku/DenisGithuku/blob/main/images/stat.svg"
   alt="Denis WakaTime Activity"
 />
 

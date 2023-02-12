@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denisgithuku" alt="denisgithuku" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@githuku_denis" target="blank"><img src="https://img.shields.io/twitter/follow/githuku_denis?logo=twitter&style=for-the-badge" alt="@githuku_denis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@denis_githuku" target="blank"><img src="https://img.shields.io/twitter/follow/denis_githuku?logo=twitter&style=for-the-badge" alt="denis_githuku" /></a> </p>
 
 - 🔭 I’m currently working on [GlobalTechnicalCollegeWebsite](https://github.com/DenisGithuku/GlobalTechnicalCollegeWebsite)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@githuku_denis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="githuku_denis" height="30" width="40" /></a>
+<a href="https://twitter.com/@denis_githuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="githuku_denis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/githukudenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="githukudenis" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/githukudenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="githukudenis" height="30" width="40" /></a>
 </p>

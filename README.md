@@ -39,3 +39,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<img
+  src="https://github.com/DenisGithuku/DenisGithuku/blob/master/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>

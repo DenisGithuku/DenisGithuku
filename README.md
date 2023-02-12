@@ -35,10 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denisgithuku&" alt="denisgithuku" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img
-  src="https://github.com/DenisGithuku/DenisGithuku/blob/master/images/stat.svg"
-  alt="Denis WakaTime Activity"
-/>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->

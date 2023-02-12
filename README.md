@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denisgithuku" alt="denisgithuku" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/githuku_denis" target="blank"><img src="https://img.shields.io/twitter/follow/githuku_denis?logo=twitter&style=for-the-badge" alt="githuku_denis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@githuku_denis" target="blank"><img src="https://img.shields.io/twitter/follow/githuku_denis?logo=twitter&style=for-the-badge" alt="githuku_denis" /></a> </p>
 
 - 🔭 I’m currently working on [GlobalTechnicalCollegeWebsite](https://github.com/DenisGithuku/GlobalTechnicalCollegeWebsite)
 

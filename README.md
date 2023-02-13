@@ -35,6 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denisgithuku&" alt="denisgithuku" /></p>
 
+
+<h3 align="left">WAKATIME ACTVITY:</h3>
 <!--START_SECTION:waka-->
 
 ```text

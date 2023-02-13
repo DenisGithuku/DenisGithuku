@@ -36,4 +36,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denisgithuku&" alt="denisgithuku" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+Kotlin           8 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.70 %
+CSS              2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+HTML             2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+JavaScript       1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Python           1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+SQL              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+```
+
 <!--END_SECTION:waka-->

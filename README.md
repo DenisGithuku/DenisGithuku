@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GlobalTechnicalCollegeWebsite](https://github.com/DenisGithuku/GlobalTechnicalCollegeWebsite)
 
-- 🌱 I’m currently learning **Android , Machine Learning**
+- 🌱 I’m currently learning **Spring & SpringBoot, Ktor**
 
 - 👯 I’m looking to collaborate on [MiAssist](https://github.com/DenisGithuku/MiAssist)
 

@@ -5,9 +5,9 @@
 
 <p align="left"><a href="https://twitter.com/@denis_githuku" target="blank"><img src="https://img.shields.io/twitter/follow/denis_githuku?logo=twitter&style=for-the-badge" alt="denis_githuku" /></a></p>
 
-- 🔭 I’m currently working on [GlobalTechnicalCollegeWebsite](https://github.com/DenisGithuku/GlobalTechnicalCollegeWebsite)
+- 🔭 I’m currently working on [ProductCentral](https://github.com/DenisGithuku/product-central)
 
-- 🌱 I’m currently learning **Spring & SpringBoot, Ktor**
+- 🌱 I’m currently learning **NodeJS, Ktor**
 
 - 👯 I’m looking to collaborate on [MiAssist](https://github.com/DenisGithuku/MiAssist)
 
@@ -17,7 +17,7 @@
 
 - 💬 Let's talk about **Android,Kotlin**
 
-- 📫 How to reach me **githukudenis@gmail.com** / **githukudenis@outlook.com**
+- 📫 How to reach me **githukudenis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

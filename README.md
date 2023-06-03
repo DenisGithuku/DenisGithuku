@@ -39,12 +39,12 @@
 <h3 align="left">WAKATIME ACTVITY:</h3>
 <!--START_SECTION:waka-->
 
-```text
-JavaScript       9 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.31 %
-Kotlin           9 hrs           ████████░░░░░░░░░░░░░░░░░   32.41 %
-CSS              4 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-HTML             2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Java             2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+```txt
+JavaScript       9 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Kotlin           9 hrs           ████████▒░░░░░░░░░░░░░░░░   33.04 %
+CSS              2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Java             2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+HTML             2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
 ```
 
 <!--END_SECTION:waka-->

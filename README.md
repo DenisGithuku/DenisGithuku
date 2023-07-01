@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         8 mins          ███████████████████▓░░░░░   78.81 %
-Text         1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

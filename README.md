@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML                    14 mins         ███████████████████████▓░   94.74 %
-Kotlin                 0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-TOML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-HTML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

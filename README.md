@@ -5,13 +5,9 @@
 
 <p align="left"><a href="https://twitter.com/@denis_githuku" target="blank"><img src="https://img.shields.io/twitter/follow/denis_githuku?logo=twitter&style=for-the-badge" alt="denis_githuku" /></a></p>
 
-- 🔭 I’m currently working on [ProductCentral](https://github.com/DenisGithuku/product-central)
+- 🔭 I’m currently working on [Complib](https://github.com/DenisGithuku/complib-android)
 
 - 🌱 I’m currently learning **NodeJS, Ktor**
-
-- 👯 I’m looking to collaborate on [MiAssist](https://github.com/DenisGithuku/MiAssist)
-
-- 🤝 I’m looking for help with [ComposeLoadingIndicators](https://github.com/DenisGithuku/ComposeLoadingIndicators)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DenisGithuku](https://github.com/DenisGithuku)
 

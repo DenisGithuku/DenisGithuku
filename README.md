@@ -36,7 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            2 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.05 %
+Ezhil             42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+TOML              36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+ActionScript 3    17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Python            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->

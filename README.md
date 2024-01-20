@@ -36,7 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart             1 hr 46 mins    ██████████████████████▓░░   90.69 %
+Kotlin           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->

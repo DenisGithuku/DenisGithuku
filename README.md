@@ -30,16 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denisgithuku&show_icons=true&locale=en" alt="denisgithuku" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denisgithuku&" alt="denisgithuku" /></p>
-
-
-<h3 align="left">WAKATIME ACTVITY:</h3>
-<!--START_SECTION:waka-->
-
-```txt
-Kotlin       56 mins         █████████████████████▒░░░   85.34 %
-TOML         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->

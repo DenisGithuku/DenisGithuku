@@ -5,15 +5,11 @@
 
 <p align="left"><a href="https://twitter.com/@denis_githuku" target="blank"><img src="https://img.shields.io/twitter/follow/denis_githuku?logo=twitter&style=for-the-badge" alt="denis_githuku" /></a></p>
 
-- 🔭 I’m currently working on [Comlib](https://github.com/DenisGithuku/comlib-android-client)
-
-- 🌱 I’m currently learning **NodeJS, Ktor**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DenisGithuku](https://github.com/DenisGithuku)
 
-- 💬 Let's talk about **Android,Kotlin**
+- 💬 Let's talk about **Java,GO**
 
-- 📫 How to reach me **githukudenis@gmail.com**
+- 📫 How to reach me **denisgithuku07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

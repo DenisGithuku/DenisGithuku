@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Githuku</h1>
-<h3 align="center">A passionate Android Engineer from Kenya</h3>
+<h3 align="center">A Software Engineer from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denisgithuku" alt="denisgithuku" /></a> </p>
 
